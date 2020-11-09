@@ -29,7 +29,7 @@ const Navbar = () => {
   };
 
   return (
-    <>
+    <>    
       <Navigation>
         <div className="left-nav">
           <img src={isTabletOrMobile ? TextLogo : Logo} alt="logo" />
