@@ -20,3 +20,6 @@ $ yarn start
 $ yarn build
 ```
 
+
+
+crafted with ❤️ by Shrey Sachdeva
