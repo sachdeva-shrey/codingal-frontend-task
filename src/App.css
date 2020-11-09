@@ -1,0 +1,15 @@
+:root {
+  --orange: #ff5a43;
+  --white: #ffffff;
+  --black: #000000;
+  --light-grey: #d3d3d3;
+}
+
+@font-face {
+  font-family: proxima-nova;
+  src: url(./assets/fonts/proxima-nova-regular.ttf);
+}
+
+body {
+  font-family: "proxima-nova", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
