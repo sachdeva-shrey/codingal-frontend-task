@@ -1,0 +1,13 @@
+.timer {
+  margin-right: 2rem;
+}
+
+p {
+  color: #54585d;
+}
+
+@media (max-width: 768px) {
+  p {
+    font-size: 1.5rem;
+  }
+}
